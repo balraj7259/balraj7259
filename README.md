@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Fresher](Fresher)
 
-- ⚡ Fun fact **Memer**
+- ⚡ Fun fact **I am a Memer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
