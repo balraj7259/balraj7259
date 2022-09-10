@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balachandra Athani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web Devlopment**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
